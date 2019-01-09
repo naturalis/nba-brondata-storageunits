@@ -1,6 +1,6 @@
 # Loading data
 
-The bulk-files comprise a dataset for loading into Elasticsearch via the bulk-API. Use https://github.com/naturalis/nba-storageunits-etl/ to load.blob/master/push_documents.sh
+The bulk-files comprise a dataset for loading into Elasticsearch via the bulk-API. Use https://github.com/naturalis/nba-storageunits-etl/
 
 The txt-file is intended for MySQL.
 
